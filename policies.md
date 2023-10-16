@@ -137,8 +137,8 @@ and communities. These channels can be registered via the process described in
 In case of loss of founders and/or all channel operators, someone
 representing the project or community should contact staff. In case of an
 official project contacting us about a channel already registered to a
-community, our staff will try to find a good solution. However, a community
-ran channel in the primary namespace could be transferred over in this case.
+community, our staff will try to find a good solution. However, a community-run
+channel in the primary namespace could be transferred over in this case.
 
 Channels in the secondary namespace (`##`) are informal channels and allocated
 on a first-come, first-served basis to the first person who registers them
